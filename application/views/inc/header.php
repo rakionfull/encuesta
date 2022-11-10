@@ -89,7 +89,7 @@
                                 <ul class="navbar-nav">
 
                                     <li class="nav-item">
-                                        <a class="nav-link" href="index.html">
+                                        <a class="nav-link" href="/home">
                                             <i class="ri-dashboard-line mr-2"></i> Dashboard
                                         </a>
                                     </li>
